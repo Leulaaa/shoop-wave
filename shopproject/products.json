@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "product_id": 10,
+        "quantity":11,
+        "brand": " levi's",
+        "name": " T-Shirts",
+        "price": 699,
+        "image": "./collection/tshirt1.png"
+    },
+    {
+        "id": 2,
+        "product_id": 12,
+        "quantity":13,
+        "name": "T-Shirts",
+        "price": 699,
+        "image": "./collection/tshirt2.png"
+    },
+    {
+        "id": 3,
+        "product_id": 14,
+        "quantity":15,
+        "name": "T-Shirts",
+        "price": 699,
+        "image": "./collection/tshirt3.png"
+    },
+    {
+        "id": 4,
+        "product_id": 16,
+        "quantity":17,
+        "name": "T-Shirts",
+        "price": 699,
+        "image": "./collection/tshirt4.png"
+    },
+    {
+        "id": 5,
+        "product_id": 18,
+        "quantity":19,
+        "name": "Hoddies",
+        "price": 999,
+        "image": "./collection/hodi1.png"
+    },
+    {
+        "id": 6,
+        "product_id": 20,
+        "quantity":21,
+        "name": "Hoddies",
+        "price": 999,
+        "image": "./collection/hodi2.png"
+    },
+    {
+        "id": 7,
+        "product_id": 22,
+        "quantity":23,
+        "name": "Hoddies",
+        "price": 999,
+        "image": "./collection/hodi3.png"
+    },
+    {
+        "id": 8,
+        "product_id": 24,
+        "quantity":25,
+        "name": "Hoddies",
+        "price": 999,
+        "image": "./collection/hodi4.png"
+    },
+
+    {
+        "id": 9,
+        
+        "brand": " levi's",
+        "name": " Bags",
+        "price": 1999,
+        "image": "./collection/bag1.png"
+    },
+    {
+        "id": 10,
+        "product_id": 12,
+        "quantity":13,
+        "name": "Bags",
+        "price": 2199,
+        "image": "./collection/bag2.png"
+    },
+    {
+        "id": 11,
+        "product_id": 14,
+        "quantity":15,
+        "name": "Bags",
+        "price": 2399,
+        "image": "./collection/bag3.png"
+    },
+    {
+        "id": 12,
+        "product_id": 16,
+        "quantity":17,
+        "name": "Bags",
+        "price":2199,
+        "image": "./collection/bag4.png"
+    },
+    {
+        "id": 13,
+        "product_id": 18,
+        "quantity":19,
+        "name": "Hat",
+        "price": 649,
+        "image": "./collection/hat1.png"
+    },
+    {
+        "id": 14,
+        "product_id": 20,
+        "quantity":21,
+        "name": "Hat",
+        "price": 549,
+        "image": "./collection/hat2.png"
+    },
+    {
+        "id": 15,
+        "product_id": 22,
+        "quantity":23,
+        "name": "Hat",
+        "price": 999,
+        "image": "./collection/hat4.png"
+    },
+    {
+        "id": 16,
+        "product_id": 24,
+        "quantity":25,
+        "name": "Hat",
+        "price": 949,
+        "image": "./collection/hat5.png"
+    }
+]

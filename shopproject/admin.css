@@ -1,0 +1,32 @@
+body{
+    background:  linear-gradient(to left, #6b7480a8, #3550eb88);
+}
+#contact_form .form-input {
+	border: 1px solid #e4e4e4;
+}
+input {
+	height: 42px;
+	padding: 0 1rem;
+	background: #fff;
+	border-radius: 30px;
+	margin-bottom: 1rem;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	border:0;
+}
+.btn-grad {
+    padding: .7rem 2rem;
+       display: inline-block;
+       color: #fff;
+       border-radius: 2rem;
+       border: 0;
+       background: #7a60ff;
+       background:  linear-gradient(to left, #0375f7a8, #3550eb88);
+       cursor:pointer;
+   }
+   .col{
+    margin: 20% 45%;
+    
+   }
