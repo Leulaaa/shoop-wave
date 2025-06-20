@@ -3,6 +3,7 @@
 Shopwave is a stylish and responsive e-commerce front-end website designed to showcase a wide range of products including t-shirts, hoodies, hats, and bags. The project is built with HTML, CSS, JavaScript, and Bootstrap. It includes modern UI elements like carousels, product cards, and responsive navigation.
 
 🚀 Features
+
 🔍 Search bar for filtering items
 
 🖼️ Hero section with promotional text
@@ -20,6 +21,7 @@ Shopwave is a stylish and responsive e-commerce front-end website designed to sh
 🌍 Integrated Leaflet map styles (ready for location-based features)
 
 🧰 Technologies Used
+
 HTML5
 
 CSS3
